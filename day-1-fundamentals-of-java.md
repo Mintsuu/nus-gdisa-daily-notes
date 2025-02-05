@@ -1,5 +1,5 @@
 **Fundamentals of Programming with Java**
-by Liu Fan (isslf@nus.edu.sg)
+by Liu Fan
 
 *Typical Daily Schedules*
 - Quizes
