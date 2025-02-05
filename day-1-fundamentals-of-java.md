@@ -26,3 +26,55 @@ Example Exam Question:
 - How to implement encryption and decryption algorithm
 - Design a tax calculator (paper will provide a table of income)
 
+Programs
+- Programs can be compiled by using a compiler into machine code (Java, C)
+- Programs can also be executed directly from the source code by using an interpreter (e.g. Python, Javascript)
+
+Library
+- Packaged collection of behaviours or capabilities that can be called (or invoked) by a program
+
+Programming Languages
+```
+Higher level = close to how humans express themselves
+| 4GL Language
+| High Level Language
+| Low Level Language
+| Assembler Language
+| Machine Language
+v
+Lower level = closer to the technical implementation of the computer
+```
+
+*Procedural Programming*
+- An ordered set of steps to solve a problem
+- Made of 3 building blocks: Sequencing, Selection, and Iteration
+- Good algorithms should be:
+    - Unambiguous
+    - Defined input
+    - Defined set of output
+    - Guaranteed to terminate
+    - Guaranteed to produce a correct result
+
+*Bubble Sort* 
+```
+-> Steps through the list to be sorted
+-> Compares each adjacent items
+-> Swaps if in wrong order
+-> Repeat until no swaps are needed
+
+- Begin with 1st element
+- Look at element on the right
+- If element should come before the element on the left, swap so that they are in order
+- Compare the next element and repeat previous step, repeat until end of array
+- Repeat process for n-1 passes when n is the number of elements in the array
+
+E.g.
+3 - 4 - 2 - 1 - 5
+3 - 2 - 1 - 4 - 5
+2 - 1 - 3 - 4 - 5
+1 - 2 - 3 - 4 - 5
+```
+
+Question: 
+- Is it safe to say the big O notation for the bubble sort is `O(n)=n-1`?
+
