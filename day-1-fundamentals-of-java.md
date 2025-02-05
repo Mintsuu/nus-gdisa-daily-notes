@@ -75,6 +75,31 @@ E.g.
 1 - 2 - 3 - 4 - 5
 ```
 
+**Java**
+*LTS*
+- Stands for Long Term Service
+
+*Java Standard Edition*
+Open JDK - Opensource
+Oracle JDK - Partially free, but not free for commercial
+
+*JDK vs JRE*
+- JRE: Java Runtime Environment. Includes a Java Virtual Machine (JVM) and core libraries ( The Java API)
+- JDK: Java Development Kit. 
+
+*Useful Java Packages*
+- java.io
+- java.lang
+- java.net
+- java.sql
+- java.text
+- java.util
+
+*Java Packaging - JAR files*
+JAR files are similar to ZIP files
+
+
 Question: 
 - Is it safe to say the big O notation for the bubble sort is `O(n)=n-1`?
+- What's the JDK that we're using for this course? Using LTS17 (Look for the latest LTS)
 
