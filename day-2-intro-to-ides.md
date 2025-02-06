@@ -47,7 +47,7 @@ Scanner Types:
 
 ## Questions
 - What is a static field?
-
+- Why is floating point arithmetics inaccurate for java?
 ## Potential Exam Questions
 - Hotel Booking system, print out the number of rooms in a specific format
 
