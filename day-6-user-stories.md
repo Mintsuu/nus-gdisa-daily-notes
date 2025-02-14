@@ -32,6 +32,18 @@ E.g.
 - As a `customer`, I can `make special requests for my booking` so that I `can extend my trip`.
 ```
 
+### Epics vs Themes vs Stories
+- Epics: Groups of user stories that are needed to form a completed workflow
+- Theme: Groups of user stories that are related e.g. similar in function, involved task done by the same user
 
+## Workshop Steps:
+1) Primary task --> Translate into user stories 
+2) Identify 1 pain point --> List down all necessary user stories for that pain point
 
+- Doesn't matter how many user stories
+- See how many pain points can be resolved
+- Finish by 5pm
+## Questions
+- Can you do inverted stories? "As a _______, I cannot _______ so that ________" 
+(Nope, this exercise is used to describe features of the program. Limitations will be dealt during other parts of the software development exercise.)
 
